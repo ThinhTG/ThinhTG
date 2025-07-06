@@ -1,34 +1,52 @@
-  <h3 id="hi-there">Hi there 👋</h3>
+<h1 align="center">Hi there, I'm Tran Gia Thinh 👋</h1>
 <div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px">
+    <img src="https://w.wallhaven.cc/full/2e/wallhaven-2ep9mg.jpg" height="300px" alt="Zoro One Piece Cool">
 </div>
-<br>
-<ul>
-<li>🌱 My name is Gia Thinh, I am Vietnamese, welcome to my GitHub home page</li><img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right">
-<li>:school: I’m currently the Final year student at <strong>FPT University</strong></li>
-<li>⚡ I know C#, Java</li>
-<li>😄 And a little bit of CSS, JavaScript, ReactJS etc.</li>
-<li>💖 Love the beautiful code and photos</li>
-<li>🔥 One is never too old to learn.</li>
-</ul>
-<br>
-<p align="center" style="height: 180px;">
-    <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=Niefee&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;show_icons=true&amp;theme=radical">
-    <img style="height:10rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&amp;theme=radical&amp;show_icons=true&amp;border=e4e2e2">
+
+<p align="center">
+    <i>"A great coder is not the one who knows every answer, but the one who knows how to ask the right question."</i>
 </p>
+
+---
+
+<ul>
+  <li>🌱 My name is <strong>Gia Thinh</strong>, I'm from <strong>Vietnam</strong> 🇻🇳</li>
+  <li>🎓 Final year student at <strong>FPT University</strong></li>
+  <li>🧠 Passionate about <strong>C# .NET backend</strong>, <strong>game development</strong>, and clean code</li>
+  <li>💻 Also familiar with Java, ReactJS, SQL Server, and microservices</li>
+  <li>🎮 Unity lover and wibu dev 😎</li>
+  <li>🖤 Code like poetry — readable, elegant, powerful.</li>
+  <li>🔥 <strong>"One is never too old to learn."</strong></li>
+</ul>
+
 <div align="center">
-    <picture align="center">
+    <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="300">
+</div>
+
+---
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Niefee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" height="160">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niefee&theme=radical&show_icons=true&border=e4e2e2" height="160">
+</p>
+
+<div align="center">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </div>
-<p align="center"> 
-  </p><div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg">
-  </div> 
-<p></p>
-<hr>
-<p>Credit: <a href="https://github.com/Niefee">Niefee</a>
-Last Edited on 03/02/2023</p> 
+
+---
+
+<div align="center">
+    <strong>👀 Visitor Count</strong>
+</div>
+<div align="center">
+    <img src="https://profile-counter.glitch.me/ThinhTG/count.svg">
+</div>
+
+---
+
+<p><strong>Credit:</strong> <a href="https://github.com/ThinhTG">ThinhTG</a> | <strong>Last Edited:</strong> 2025-07-06</p>
