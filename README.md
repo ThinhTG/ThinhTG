@@ -14,7 +14,7 @@
   <li>🎓 Final year student at <strong>FPT University</strong></li>
   <li>🧠 Passionate about <strong>C# .NET backend</strong>, <strong>game development</strong>, and clean code</li>
   <li>💻 Also familiar with Java, ReactJS, SQL Server, and microservices</li>
-  <li>🎮 Unity lover and wibu dev 😎</li>
+  <li>🎮 Unity lover dev 😎</li>
   <li>🖤 Code like poetry — readable, elegant, powerful.</li>
   <li>🔥 <strong>"One is never too old to learn."</strong></li>
 </ul>
