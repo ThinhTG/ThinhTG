@@ -4,9 +4,10 @@
 </div>
 <br>
 <ul>
-<li>🌱 My name is Gia Thinh, I am Vietnamese, welcome to my GitHub home page</li>
-<li>⚡ I know C#</li>
-<li>😄 And a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.</li>
+<li>🌱 My name is Gia Thinh, I am Vietnamese, welcome to my GitHub home page</li><img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right">
+<li>:school: I’m currently the Final year student at <strong>FPT University</strong></li>
+<li>⚡ I know C#, Java</li>
+<li>😄 And a little bit of CSS, JavaScript, ReactJS etc.</li>
 <li>💖 Love the beautiful code and photos</li>
 <li>🔥 One is never too old to learn.</li>
 </ul>
