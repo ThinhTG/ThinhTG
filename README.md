@@ -1,58 +1,92 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 A passionate developer who loves clean code & great UI/UX</h3>
+<p align="center">
+  <img src="https://media.tenor.com/wG7KeU9Iq6EAAAAC/luffy-gear5.gif" alt="Luffy Gear 5" width="500"/>
+</p>
+
+<h1 align="center">✨ I'm Tran Gia Thinh (トラン・ジア・ティン) ✨</h1>
+<h3 align="center">🧠 Backend Developer | 🎮 Game Dev | ❤️ .NET Lover </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Welcome+to+my+Otaku+World!;C%23+.NET+Back-end+Developer;Unity+2D%2F3D+Game+Enthusiast;Wibu+by+heart+%F0%9F%8C%BA+Code+by+passion" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thinhtg&label=Visitors&color=ff69b4&style=flat-square" alt="profile views" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-- 🎯 I’m currently working on building modern web & mobile applications
-- 🔭 I’m exploring C# .NET, ReactJS, Flutter, and Microservices
-- 📫 How to reach me: [your-email@example.com]
-- 🌐 Portfolio: [your-portfolio-link.com]
+### 🌸 About Me – 私について 🌸
+- 🔭 Working on: **InterTransConnect** – connecting interpreters and clients  
+- 🧠 Learning: **Clean Architecture**, **AI integration**, and **Game Physics**  
+- 💻 Backend Life: `.NET 8`, `C#`, `Entity Framework`, `SignalR`, `gRPC`  
+- 🎮 Game Dev: I build worlds in **Unity (C#)** – 2D platformers, gacha games, RPG systems  
+- ✨ Otaku Zone: Fan of **One Piece**, **Kimetsu no Yaiba**, **Steins;Gate**, **SAO**  
+- 💬 Motto: _"Code like Kirito, debug like Senku!"_ 🧪
 
 ---
 
-## 🚀 Tech Stack
+### 🛠️ Tech Stack – 技術スタック
+#### 💻 Back-End
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+</p>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+#### 🎮 Game Development
+<p>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Blender3D_Icon.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Godot_icon.svg/2048px-Godot_icon.svg.png" width="40"/>
+</p>
 
----
+#### 🌐 Front-End & Mobile
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
-</div>
-
----
-
-## ⏱️ WakaTime Stats (Time Spent Coding)
-
-<!-- Replace "your-wakatime-username" below with your actual WakaTime username -->
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark&hide_border=true)
+#### 🧪 Tools & IDE
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+</p>
 
 ---
 
-## ☕ Let's Connect
+### 📊 Stats – ステータス
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thinhtg&show_icons=true&theme=tokyonight&hide_title=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thinhtg&layout=compact&theme=tokyonight&hide=python" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thinhtg&theme=tokyonight" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+---
 
+### 🏆 Trophies – トロフィー
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thinhtg&theme=gruvbox&column=7&no-bg=true&no-frame=true"/>
+</p>
+
+---
+
+### 📫 Contact me – 連絡してください！
+<p align="left">
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/yourfacebook"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.tenor.com/9GOZ1W_YRIgAAAAC/code-anime.gif" height="200" />
+  <br/>
+  <i>"A great coder is not the one who knows every answer, but the one who knows how to ask the right question."</i> 🔥
+</p>
